@@ -1,2 +1,2 @@
 # rawi-email
-Eamil html for rawi shop
+Email html for rawi shop
